@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "postinstall": "echo 'skip native bindings for rollup'"
+     "postinstall": "npm rebuild rollup"
   },
   "dependencies": {
 "@syncfusion/ej2": "^19.4.48",
