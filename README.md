@@ -1,12 +1,39 @@
-# React + Vite
+# 🧩 Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Admin Dashboard** built with **React**, **Vite**, and **Syncfusion** components. This frontend-only application showcases various interactive and customizable UI components for data visualization, planning, and management — ideal for business admin interfaces and productivity tools.
 
-Currently, two official plugins are available:
+![dashboard-preview](preview.png) <!-- Replace with actual screenshot path -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 https://admin-dashboard-delta-six-10.vercel.app/
+
+---
+
+## ✨ Features
+
+- 🗂 **Kanban Board** for task management
+- 📊 **Charts** (line, bar, pie, area) for data visualization
+- 📅 **Scheduler** for event planning
+- 🧮 **Data Grids** with filtering, sorting, and pagination
+- 🧾 **Rich Form Controls** like dropdowns, calendars, and text editors
+- 🌙 Light/Dark mode toggle
+- 🧭 Client-side routing with React Router
+- ⚡ Built with Vite for ultra-fast performance
+- 🎨 Styled using Tailwind CSS
+
+---
+
+## 🧰 Tech Stack
+
+| Technology        | Description                              |
+|------------------|------------------------------------------|
+| React.js          | Frontend library for building UI         |
+| Vite              | Lightning-fast build tool and dev server |
+| Tailwind CSS      | Utility-first CSS framework              |
+| Syncfusion React  | Powerful and flexible UI components      |
+| React Router DOM  | Routing for SPA navigation               |
+
+---
